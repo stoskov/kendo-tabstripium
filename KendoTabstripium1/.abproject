@@ -1,0 +1,45 @@
+{
+  "ProjectName": "KendoTabstripium1",
+  "ProjectGuid": "5c002e3b-ad5b-40da-a033-cc88c7c64eee",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.KendoTabstripium1",
+  "DisplayName": "KendoTabstripium1",
+  "Author": "",
+  "Description": "KendoTabstripium1",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{1ec79e37-9772-48ab-84e5-f71fc2977d0c}",
+  "WP8ProductID": "{a7065edb-52a4-4dfc-8d31-2c1c46f44159}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.KendoTabstripium1",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
